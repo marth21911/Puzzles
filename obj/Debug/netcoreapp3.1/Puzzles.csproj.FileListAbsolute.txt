@@ -1,0 +1,13 @@
+C:\Users\marth\Documents\Coding\cSharpCodingDojo\Puzzles\obj\Debug\netcoreapp3.1\Puzzles.csprojAssemblyReference.cache
+C:\Users\marth\Documents\Coding\cSharpCodingDojo\Puzzles\obj\Debug\netcoreapp3.1\Puzzles.AssemblyInfoInputs.cache
+C:\Users\marth\Documents\Coding\cSharpCodingDojo\Puzzles\obj\Debug\netcoreapp3.1\Puzzles.AssemblyInfo.cs
+C:\Users\marth\Documents\Coding\cSharpCodingDojo\Puzzles\obj\Debug\netcoreapp3.1\Puzzles.csproj.CoreCompileInputs.cache
+C:\Users\marth\Documents\Coding\cSharpCodingDojo\Puzzles\bin\Debug\netcoreapp3.1\Puzzles.exe
+C:\Users\marth\Documents\Coding\cSharpCodingDojo\Puzzles\bin\Debug\netcoreapp3.1\Puzzles.deps.json
+C:\Users\marth\Documents\Coding\cSharpCodingDojo\Puzzles\bin\Debug\netcoreapp3.1\Puzzles.runtimeconfig.json
+C:\Users\marth\Documents\Coding\cSharpCodingDojo\Puzzles\bin\Debug\netcoreapp3.1\Puzzles.runtimeconfig.dev.json
+C:\Users\marth\Documents\Coding\cSharpCodingDojo\Puzzles\bin\Debug\netcoreapp3.1\Puzzles.dll
+C:\Users\marth\Documents\Coding\cSharpCodingDojo\Puzzles\bin\Debug\netcoreapp3.1\Puzzles.pdb
+C:\Users\marth\Documents\Coding\cSharpCodingDojo\Puzzles\obj\Debug\netcoreapp3.1\Puzzles.dll
+C:\Users\marth\Documents\Coding\cSharpCodingDojo\Puzzles\obj\Debug\netcoreapp3.1\Puzzles.pdb
+C:\Users\marth\Documents\Coding\cSharpCodingDojo\Puzzles\obj\Debug\netcoreapp3.1\Puzzles.genruntimeconfig.cache
